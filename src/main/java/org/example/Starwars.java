@@ -1,9 +1,9 @@
 package org.example;
 
 public class Starwars {
-    private String director = "Lukas";
+    private String director = "D.Lukas";
     private Integer year = 1984;
-    private Boolean translated = true;
+    private Boolean translated = false;
 
     public String getDirector() {
         return director;
