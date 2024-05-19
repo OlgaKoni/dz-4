@@ -2,7 +2,7 @@ package org.example;
 
 public class Starwars {
     private String director = "Lukas";
-    private Integer year = 1986;
+    private Integer year = 1984;
     private Boolean translated = true;
 
     public String getDirector() {
